@@ -1,2 +1,2 @@
 # Malak
-application est d'offrir un moyen d'éducation à distance adapté aux besoins spécifiques des enfants de la lune
+Le projet consiste en la conception et le développement d'une application mobile éducative destinée aux enfants atteints de la maladie XP.
